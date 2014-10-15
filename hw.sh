@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hello coco"
+echo "Il est beau coco !"
+
